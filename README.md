@@ -1,2 +1,2 @@
 # Capstone
-The final rpoject is contained in the files capstone paper, capstone presentation, capstone wrangling, and forecasting1.
+The final project is contained in the files capstone paper, capstone presentation, capstone wrangling, and forecasting1.
