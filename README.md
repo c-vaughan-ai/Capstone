@@ -1,2 +1,2 @@
 # Capstone
-The final project is contained in the files capstone paper, capstone presentation, capstone wrangling, and forecasting1.
+This project examines and forecasts the unemployment rate across demographics, and was done for the Springboard data science course. The primary files of interest are: capstone paper, capstone presentation, capstone wrangling, and forecasting1.
